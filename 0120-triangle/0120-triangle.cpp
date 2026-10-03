@@ -18,11 +18,24 @@ public:
         int n=triangle.size();
         int m=triangle[n-1].size();
         int ans=INT_MAX;
-        vector<vector<int>> dp(n,vector<int>(m,-1));
+        vector<vector<int>> dp(n,vector<int>(m,0));
+        dp[0][0]=triangle[0][0];
+
+        for(int i=1;i<n;i++){
+            int col=triangle[i].size();
+            for(int j=0;j<col;j++){
+                int up=1e9;
+                int left=1e9;
+                if(j!=col-1) up=dp[i-1][j];
+                if(j>0) left=dp[i-1][j-1];
+
+                dp[i][j]=min(left,up)+triangle[i][j];
+            }
+        }
 
         for(int i=0;i<m;i++){
-            int val=ways(n-1,i,triangle,dp);
-            ans=min(ans,val);
+            
+            ans=min(ans,dp[n-1][i]);
 
         }
         return ans;
