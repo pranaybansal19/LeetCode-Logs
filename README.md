@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
