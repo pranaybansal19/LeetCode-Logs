@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
 ## Math
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
