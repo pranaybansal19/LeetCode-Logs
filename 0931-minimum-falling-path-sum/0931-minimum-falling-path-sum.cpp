@@ -28,26 +28,29 @@ public:
         int ans = INT_MAX;
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>> dp(n, vector<int>(m, 0));
+        // vector<vector<int>> dp(n, vector<int>(m, 0));
+        vector<int> prev(m,0),curr(m,0);
 
         for (int i = 0; i < m; i++) {
-            dp[0][i]=matrix[0][i];
+           prev[i]=matrix[0][i];
         }
         for(int i=1;i<n;i++){
             for(int j=0;j<m;j++){
                 int left=INT_MAX;
                 int right=INT_MAX;
 
-                int up=dp[i-1][j];
-                if(j>0) left=dp[i-1][j-1];
-                if(j<m-1) right=dp[i-1][j+1];
+                int up=prev[j];
+                if(j>0) left=prev[j-1];
+                if(j<m-1) right=prev[j+1];
 
-                dp[i][j]=min(up,min(left,right))+matrix[i][j];
+                curr[j]=min(up,min(left,right))+matrix[i][j];
+
             }
+            prev=curr;
         }
 
         for(int i=0;i<m;i++){
-            ans=min(ans,dp[n-1][i]);
+            ans=min(ans,prev[i]);
         }
         return ans;
     }
