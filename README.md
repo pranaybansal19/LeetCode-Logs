@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1463-cherry-pickup-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
