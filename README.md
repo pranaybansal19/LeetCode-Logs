@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1463-cherry-pickup-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
