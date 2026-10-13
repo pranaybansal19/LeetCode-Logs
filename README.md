@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
