@@ -181,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
