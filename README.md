@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -188,9 +190,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
