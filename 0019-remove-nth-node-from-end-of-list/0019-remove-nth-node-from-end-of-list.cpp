@@ -11,27 +11,20 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        // one traversal for finding the total number of nbodes
-        // another iteration for doing the change 
-        // Time complexity = O(2n)
-        int cnt=0;
-        ListNode* temp=head;
-
-        while(temp!=NULL){
-            temp=temp->next;
-            cnt++;
+        ListNode* fast=head;
+        ListNode* slow=head;
+        for(int i=0;i<n;i++){
+            fast=fast->next;
         }
-        ListNode* prev=NULL;
-        temp=head;
-        int cnt2=0;
-
-        while(temp!=NULL && (cnt-n)!=cnt2){
-            cnt2++;
-            prev=temp;
-            temp=temp->next;
+        if(fast==NULL){
+            return head->next;
         }
-        if(prev==NULL) return head->next;
-        prev->next=temp->next;
+        while(fast->next!=NULL){
+            fast=fast->next;
+            slow=slow->next;
+        }
+        slow->next=slow->next->next;
         return head;
+        
     }
 };
