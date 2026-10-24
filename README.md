@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
