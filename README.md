@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2409-count-days-spent-together](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2409-count-days-spent-together) |
 ## Combinatorics
 |  |
 | ------- |
