@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0860-lemonade-change](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0860-lemonade-change) |
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1254-number-of-closed-islands) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2409-count-days-spent-together) |
 ## Combinatorics
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
