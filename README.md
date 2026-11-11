@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2409-count-days-spent-together](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
