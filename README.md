@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0179-largest-number) |
+| [0412-fizz-buzz](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0062-unique-paths) |
+| [0412-fizz-buzz](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1115-print-foobar-alternately) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
