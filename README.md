@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0303-range-sum-query-immutable) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3364-minimum-positive-sum-subarray) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0412-fizz-buzz) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
