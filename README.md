@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1313-decompress-run-length-encoded-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1313-decompress-run-length-encoded-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
