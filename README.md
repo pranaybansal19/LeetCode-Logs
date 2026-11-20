@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2409-count-days-spent-together](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3163-string-compression-iii](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3163-string-compression-iii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
