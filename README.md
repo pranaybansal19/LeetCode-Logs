@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2747-count-zero-request-servers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranaybansal19/LeetCode-Logs/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
 | ------- |
